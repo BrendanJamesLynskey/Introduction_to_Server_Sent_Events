@@ -48,6 +48,10 @@ An interactive Reveal.js presentation covering Server-Sent Events (SSE) — the 
 
 Single self-contained `index.html` — no build step, no npm, no dependencies to install.
 
+## Markdown Version
+
+A comprehensive markdown reference of all slide content is available in [`presentation.md`](presentation.md).
+
 ## References
 
 - [WHATWG HTML Living Standard — Server-Sent Events](https://html.spec.whatwg.org/multipage/server-sent-events.html)
